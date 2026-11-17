@@ -18,6 +18,14 @@ This is my second **Godot C#** project. Built upon [Russ's Tetris tutorial](http
 * **Core Gameplay:** Piece movement, rotation, collision detection, row clearing, score tracking, and progressive speed increase.
 * **Game State Controls:** Functional Pause and New Game states.
 
+## How to play
+- W or Up arrow -- move a figure up
+- A or Left arrow -- increase a figure's falling speed, if it falls to the screen's left
+- D or Right arrow -- increase a figure's falling speed, if it falls to the screen's right
+- S or Down arrow -- move a figure down
+- R -- rotate a figure
+- Escape or Space -- pause the game
+
 ## How to Run Locally
 1. Make sure you have the **Godot Engine (.NET version)** installed.
 2. Clone this repository:
